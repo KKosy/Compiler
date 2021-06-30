@@ -1,0 +1,6 @@
+\'\\n\' "CCONST_NL"
+\'\\f\' "CCONST_F"
+\'\\t\' "CCONST_T"
+\'\\r\' "CCONST_R"
+\'\\b\' "CCONST_B"
+\'\\v\' "CCONST_V"
